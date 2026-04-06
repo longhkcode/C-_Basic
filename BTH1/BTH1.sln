@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH1", "BTH1\BTH1.csproj", "{534BE102-CF64-453F-8E9B-615BFA473613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH2", "BTH2\BTH2.csproj", "{F02C9C70-2A12-4A08-96CD-E23B7B8C9D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534BE102-CF64-453F-8E9B-615BFA473613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534BE102-CF64-453F-8E9B-615BFA473613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534BE102-CF64-453F-8E9B-615BFA473613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534BE102-CF64-453F-8E9B-615BFA473613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02C9C70-2A12-4A08-96CD-E23B7B8C9D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02C9C70-2A12-4A08-96CD-E23B7B8C9D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02C9C70-2A12-4A08-96CD-E23B7B8C9D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02C9C70-2A12-4A08-96CD-E23B7B8C9D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
