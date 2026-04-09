@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\ChiSo_BMI\bin\Debug\net9.0\ChiSo_BMI.exe
+A:\C#_Basic\BT_WEB\ChiSo_BMI\bin\Debug\net9.0\ChiSo_BMI.deps.json
+A:\C#_Basic\BT_WEB\ChiSo_BMI\bin\Debug\net9.0\ChiSo_BMI.runtimeconfig.json
+A:\C#_Basic\BT_WEB\ChiSo_BMI\bin\Debug\net9.0\ChiSo_BMI.dll
+A:\C#_Basic\BT_WEB\ChiSo_BMI\bin\Debug\net9.0\ChiSo_BMI.pdb
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.sourcelink.json
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.dll
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\refint\ChiSo_BMI.dll
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.pdb
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ChiSo_BMI.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\ChiSo_BMI\obj\Debug\net9.0\ref\ChiSo_BMI.dll
