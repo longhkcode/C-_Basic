@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\NumToWords\bin\Debug\net9.0\NumToWords.exe
+A:\C#_Basic\BT_WEB\NumToWords\bin\Debug\net9.0\NumToWords.deps.json
+A:\C#_Basic\BT_WEB\NumToWords\bin\Debug\net9.0\NumToWords.runtimeconfig.json
+A:\C#_Basic\BT_WEB\NumToWords\bin\Debug\net9.0\NumToWords.dll
+A:\C#_Basic\BT_WEB\NumToWords\bin\Debug\net9.0\NumToWords.pdb
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.sourcelink.json
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.dll
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\refint\NumToWords.dll
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.pdb
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\NumToWords.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\NumToWords\obj\Debug\net9.0\ref\NumToWords.dll
