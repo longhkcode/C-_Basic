@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\DaysinYear\bin\Debug\net9.0\DaysinYear.exe
+A:\C#_Basic\BT_WEB\DaysinYear\bin\Debug\net9.0\DaysinYear.deps.json
+A:\C#_Basic\BT_WEB\DaysinYear\bin\Debug\net9.0\DaysinYear.runtimeconfig.json
+A:\C#_Basic\BT_WEB\DaysinYear\bin\Debug\net9.0\DaysinYear.dll
+A:\C#_Basic\BT_WEB\DaysinYear\bin\Debug\net9.0\DaysinYear.pdb
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.sourcelink.json
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.dll
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\refint\DaysinYear.dll
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.pdb
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\DaysinYear.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\DaysinYear\obj\Debug\net9.0\ref\DaysinYear.dll
