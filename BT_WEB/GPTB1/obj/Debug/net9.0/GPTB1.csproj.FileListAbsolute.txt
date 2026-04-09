@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\GPTB1\bin\Debug\net9.0\GPTB1.exe
+A:\C#_Basic\BT_WEB\GPTB1\bin\Debug\net9.0\GPTB1.deps.json
+A:\C#_Basic\BT_WEB\GPTB1\bin\Debug\net9.0\GPTB1.runtimeconfig.json
+A:\C#_Basic\BT_WEB\GPTB1\bin\Debug\net9.0\GPTB1.dll
+A:\C#_Basic\BT_WEB\GPTB1\bin\Debug\net9.0\GPTB1.pdb
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.sourcelink.json
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.dll
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\refint\GPTB1.dll
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.pdb
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\GPTB1.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\GPTB1\obj\Debug\net9.0\ref\GPTB1.dll
