@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\LT_CauDK\bin\Debug\net9.0\LT_CauDK.exe
+A:\C#_Basic\BTH1\LT_CauDK\bin\Debug\net9.0\LT_CauDK.deps.json
+A:\C#_Basic\BTH1\LT_CauDK\bin\Debug\net9.0\LT_CauDK.runtimeconfig.json
+A:\C#_Basic\BTH1\LT_CauDK\bin\Debug\net9.0\LT_CauDK.dll
+A:\C#_Basic\BTH1\LT_CauDK\bin\Debug\net9.0\LT_CauDK.pdb
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.AssemblyInfo.cs
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.sourcelink.json
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.dll
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\refint\LT_CauDK.dll
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.pdb
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\LT_CauDK.genruntimeconfig.cache
+A:\C#_Basic\BTH1\LT_CauDK\obj\Debug\net9.0\ref\LT_CauDK.dll
