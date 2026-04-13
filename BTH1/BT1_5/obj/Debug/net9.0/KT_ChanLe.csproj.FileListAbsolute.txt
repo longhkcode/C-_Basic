@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\KT_ChanLe\bin\Debug\net9.0\KT_ChanLe.exe
+A:\C#_Basic\BTH1\KT_ChanLe\bin\Debug\net9.0\KT_ChanLe.deps.json
+A:\C#_Basic\BTH1\KT_ChanLe\bin\Debug\net9.0\KT_ChanLe.runtimeconfig.json
+A:\C#_Basic\BTH1\KT_ChanLe\bin\Debug\net9.0\KT_ChanLe.dll
+A:\C#_Basic\BTH1\KT_ChanLe\bin\Debug\net9.0\KT_ChanLe.pdb
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.AssemblyInfo.cs
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.sourcelink.json
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.dll
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\refint\KT_ChanLe.dll
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.pdb
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\KT_ChanLe.genruntimeconfig.cache
+A:\C#_Basic\BTH1\KT_ChanLe\obj\Debug\net9.0\ref\KT_ChanLe.dll
