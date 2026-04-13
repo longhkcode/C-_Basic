@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\C#_Basic\\BTH1\\BT2\\BT2.csproj",
-      "projectName": "BT2",
-      "projectPath": "A:\\C#_Basic\\BTH1\\BT2\\BT2.csproj",
+      "projectUniqueName": "A:\\C#_Basic\\BTH1\\BT1_4\\BT1_4.csproj",
+      "projectName": "BT1_4",
+      "projectPath": "A:\\C#_Basic\\BTH1\\BT1_4\\BT1_4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "A:\\C#_Basic\\BTH1\\BT2\\obj\\",
+      "outputPath": "A:\\C#_Basic\\BTH1\\BT1_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
