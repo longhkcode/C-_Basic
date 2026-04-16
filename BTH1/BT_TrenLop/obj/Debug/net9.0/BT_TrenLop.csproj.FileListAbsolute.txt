@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\BT_TrenLop\bin\Debug\net9.0\BT_TrenLop.exe
+A:\C#_Basic\BTH1\BT_TrenLop\bin\Debug\net9.0\BT_TrenLop.deps.json
+A:\C#_Basic\BTH1\BT_TrenLop\bin\Debug\net9.0\BT_TrenLop.runtimeconfig.json
+A:\C#_Basic\BTH1\BT_TrenLop\bin\Debug\net9.0\BT_TrenLop.dll
+A:\C#_Basic\BTH1\BT_TrenLop\bin\Debug\net9.0\BT_TrenLop.pdb
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.AssemblyInfo.cs
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.sourcelink.json
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.dll
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\refint\BT_TrenLop.dll
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.pdb
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\BT_TrenLop.genruntimeconfig.cache
+A:\C#_Basic\BTH1\BT_TrenLop\obj\Debug\net9.0\ref\BT_TrenLop.dll
