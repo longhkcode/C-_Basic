@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\BT8_6\bin\Debug\net9.0\BT8_6.exe
+A:\C#_Basic\BTH1\BT8_6\bin\Debug\net9.0\BT8_6.deps.json
+A:\C#_Basic\BTH1\BT8_6\bin\Debug\net9.0\BT8_6.runtimeconfig.json
+A:\C#_Basic\BTH1\BT8_6\bin\Debug\net9.0\BT8_6.dll
+A:\C#_Basic\BTH1\BT8_6\bin\Debug\net9.0\BT8_6.pdb
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.AssemblyInfo.cs
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.sourcelink.json
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.dll
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\refint\BT8_6.dll
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.pdb
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\BT8_6.genruntimeconfig.cache
+A:\C#_Basic\BTH1\BT8_6\obj\Debug\net9.0\ref\BT8_6.dll
