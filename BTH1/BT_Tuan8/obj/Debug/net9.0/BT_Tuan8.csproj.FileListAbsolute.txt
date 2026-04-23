@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\BT_Tuan8\bin\Debug\net9.0\BT_Tuan8.exe
+A:\C#_Basic\BTH1\BT_Tuan8\bin\Debug\net9.0\BT_Tuan8.deps.json
+A:\C#_Basic\BTH1\BT_Tuan8\bin\Debug\net9.0\BT_Tuan8.runtimeconfig.json
+A:\C#_Basic\BTH1\BT_Tuan8\bin\Debug\net9.0\BT_Tuan8.dll
+A:\C#_Basic\BTH1\BT_Tuan8\bin\Debug\net9.0\BT_Tuan8.pdb
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.AssemblyInfo.cs
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.sourcelink.json
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.dll
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\refint\BT_Tuan8.dll
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.pdb
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\BT_Tuan8.genruntimeconfig.cache
+A:\C#_Basic\BTH1\BT_Tuan8\obj\Debug\net9.0\ref\BT_Tuan8.dll
