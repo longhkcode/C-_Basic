@@ -1,0 +1,15 @@
+A:\C#_Basic\BTH1\Bt_Tuan9\bin\Debug\net9.0\Bt_Tuan9.exe
+A:\C#_Basic\BTH1\Bt_Tuan9\bin\Debug\net9.0\Bt_Tuan9.deps.json
+A:\C#_Basic\BTH1\Bt_Tuan9\bin\Debug\net9.0\Bt_Tuan9.runtimeconfig.json
+A:\C#_Basic\BTH1\Bt_Tuan9\bin\Debug\net9.0\Bt_Tuan9.dll
+A:\C#_Basic\BTH1\Bt_Tuan9\bin\Debug\net9.0\Bt_Tuan9.pdb
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.AssemblyInfoInputs.cache
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.AssemblyInfo.cs
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.sourcelink.json
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.dll
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\refint\Bt_Tuan9.dll
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.pdb
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\Bt_Tuan9.genruntimeconfig.cache
+A:\C#_Basic\BTH1\Bt_Tuan9\obj\Debug\net9.0\ref\Bt_Tuan9.dll
